@@ -1,0 +1,5 @@
+OrderID,CustomerName,Region,Sales,Quantity,Profit
+101,Aarav Sharma,North,1200.50,3,150.00
+102,Priya Patel,West,450.00,1,75.50
+103,Rohan Verma,South,3100.25,5,600.00
+104,Ananya Gupta,East,890.00,2,120.00
